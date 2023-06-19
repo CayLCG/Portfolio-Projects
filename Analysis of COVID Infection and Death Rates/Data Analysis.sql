@@ -282,6 +282,7 @@ order by 1,2,3
 
 -- 18.
 ---- Shows the number of New Vaccinations, Cumulative number of Vaccinated people and Percentage of population Vaccinated
+---- Filtering out edge cases whereby Continent was not included in the raw data 
 ---- Arranged by alphabetical order and ascending date
 
 With PopvsVac (Continent, Location, Date, Population, New_Vaccinations, Cumulative_People_Vaccinated)
