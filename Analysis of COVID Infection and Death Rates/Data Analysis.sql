@@ -299,4 +299,3 @@ Select *, (Cumulative_People_Vaccinated/Population)*100 as PercentPeopleVaccinat
 From PopvsVac
 
 --_______________________________________________________________________________
-*Shoutout to AlexTheAnalyst for SQL Tutorial*
