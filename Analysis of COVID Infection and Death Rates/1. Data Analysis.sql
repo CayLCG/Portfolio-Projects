@@ -72,7 +72,6 @@ Population,
 Total_Cases, 
 (Total_Cases/Population)*100 as Infected_Percentage
 From PortfolioProject..CovidDeaths$
--- Where location like '%states%'
 order by 1,2
 
 --_______________________________________________________________________________
