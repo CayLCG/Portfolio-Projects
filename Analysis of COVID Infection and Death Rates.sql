@@ -297,3 +297,6 @@ where dea.Continent is not null
 )
 Select *, (Cumulative_People_Vaccinated/Population)*100 as PercentPeopleVaccinated
 From PopvsVac
+
+--_______________________________________________________________________________
+*Shoutout to AlexTheAnalyst for SQL Tutorial*
