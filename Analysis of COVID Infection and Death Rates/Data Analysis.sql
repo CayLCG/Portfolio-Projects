@@ -1,5 +1,5 @@
 
--- The following SQL code shows the analysis of COVID Deaths up until 30 April 2021
+-- The following SQL code shows the analysis of COVID Deaths and Infection Rates up until 30 April 2021
 
 --_______________________________________________________________________________
 
