@@ -1,0 +1,7 @@
+* I use POWER BI to craft my figures *
+* However, if you do not have a POWER BI account, you would not be able to view the .pbix file *
+* As such, I have exported the .pbix file to a .pdf file *
+* Unfortunately, unless you have a POWER BI account, you would not be able to use the live filters, which will help you to filter data that you wish to see *
+* To be used as a visual aid with 1. Data Analysis.sql *
+
+* TLDR, the .pdf file is just an image whereas the .pbix file allows you to manipulate my figures using the interactive filter *
