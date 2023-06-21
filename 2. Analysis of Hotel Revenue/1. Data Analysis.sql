@@ -1,6 +1,6 @@
 -- The following SQL code shows the step-by-step analysis of Hotel Revenue up until 2020
 -- Each set of code is numbered and should be executed on its own and not together
--- To be used in conjunction with my Power BI figures for data visualisation
+-- To be used in conjunction with my Power BI figures, 2. Data Visualisation
 
 --______________________________________________________________________________
 
