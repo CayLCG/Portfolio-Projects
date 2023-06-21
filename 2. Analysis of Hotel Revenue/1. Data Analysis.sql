@@ -1,3 +1,5 @@
+--______________________________________________________________________________
+
 -- The following SQL code shows the step-by-step analysis of Hotel Revenue up until 2020
 -- Each set of code is numbered and should be executed on its own and not together
 -- To be used in conjunction with my Power BI figures, 2. Data Visualisation
@@ -172,3 +174,5 @@ left join dbo.market_segment$
 on Hotels_Data.market_segment = market_segment$.market_segment
 left join dbo.meal_cost$
 on meal_cost$.meal	= Hotels_Data.meal
+
+--______________________________________________________________________________
