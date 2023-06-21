@@ -1,5 +1,8 @@
+--_______________________________________________________________________________
 
 -- The following SQL code shows the analysis of COVID Deaths and Infection Rates up until 30 April 2021
+-- Each set of code is numbered and should be executed on its own and not together
+-- To be used in conjunction with my Tableau figures, 2. Data Visualisation
 
 --_______________________________________________________________________________
 
