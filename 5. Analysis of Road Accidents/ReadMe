@@ -1,1 +1,11 @@
+Rationale: 
+          Create a road accident dashboard for the year 2021 and 2022 so that we can have visual insights about
+          1. Total casualties and total accident values for current year and year-on-year growth
+          2. Total casualties by severity for current year and year-on-year growth
+          3. Total casualties with respect to vehicle types for current year
+          4. Monthly trend showing comparison of casualties for current year and previous year
+          5. Casualties by road type for current year
+          6. Total casualties and total accidents by location
 
+Source:
+       Refer to file "Source"
